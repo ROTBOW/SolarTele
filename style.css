@@ -1995,7 +1995,7 @@ img {
 }
 
 img.thumb {
-    max-width: 15%;
+    max-width: 50%;
 }
 
 .img-hori {
