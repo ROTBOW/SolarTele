@@ -1993,3 +1993,11 @@ img {
     max-width: 100%;
     margin: auto;
 }
+
+img.thumb {
+    max-width: 15%;
+}
+
+.img-hori {
+    display: flex;
+}
